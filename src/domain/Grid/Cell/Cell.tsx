@@ -8,7 +8,7 @@ interface props {
   col: number;
 }
 
-export const Cell: FC<props> = ({ grid, row, col }) => {
+const Cell: FC<props> = ({ grid, row, col }) => {
   return <CellElement key={`${row}-${col}`} grid={grid[row][col]} />;
 };
 
