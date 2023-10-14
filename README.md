@@ -1,6 +1,6 @@
 # Welcome to Grid Game :)
 
-This project is available here as    -->    [live demo](https://623b79dfe85e550008df1ac0--resonant-tulumba-9d63ee.netlify.app/)   <--  
+This project is available here as    -->    [live demo](https://resonant-tulumba-9d63ee.netlify.app/)   <--  
 
 ## Available Scripts
 
